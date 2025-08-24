@@ -47,6 +47,7 @@ Proyecto educativo para practicar operaciones **Crear, Leer, Actualizar y Elimin
 - `ZooDatabase` → Manejo de conexión y operaciones CRUD.
 - `Animal` → Clase modelo.
 - `ZooGUI*` → Interfaces gráficas Swing.
+  ```
         src/clases/
         ├── Animal.java # Clase modelo para los animales
         ├── ZooDatabase.java # Singleton para conexión y métodos CRUD
@@ -55,7 +56,7 @@ Proyecto educativo para practicar operaciones **Crear, Leer, Actualizar y Elimin
         ├── ZooGUI_Mostrar.java # Mostrar animales por tipo
         ├── ZooGUI_Actualizar.java # Formulario de actualización
         └── ZooGUI_Act_eliminar.java # Menú de actualización/eliminación
-
+```
 ---
 
 ## ⚙️ Requisitos
