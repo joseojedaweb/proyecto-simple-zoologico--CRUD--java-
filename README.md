@@ -1,4 +1,13 @@
 # 🐾 Proyecto Zoológico (Java + Swing)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-0081CB?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge&logo=apachespark&logoColor=white)
+![Status](https://img.shields.io/badge/status-learning-blue?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+
 Pequeña aplicación CRUD simple desarrollada en **Java** con interfaz gráfica **Swing** y base de datos persistente **MySQL**, diseñada para gestionar animales en un zoológico.  
 Proyecto educativo para practicar operaciones **Crear, Leer, Actualizar y Eliminar** en Java.
 
